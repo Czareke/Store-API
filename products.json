@@ -1,0 +1,32 @@
+[
+  {"product_name": "TweetSphere", "price": 35.99, "company_name": "Twitter", "description": "A comprehensive analytics tool for Twitter trends and statistics.", "ratings": 4.0},
+  {"product_name": "TwitterBoost", "price": 49.99, "company_name": "Twitter", "description": "Boost your Twitter engagement with advanced AI tools.", "ratings": 4.5},
+  {"product_name": "TwitterInsights", "price": 29.99, "company_name": "Twitter", "description": "Gain deep insights into your Twitter followers and their behavior.", "ratings": 4.2},
+
+  {"product_name": "GoogleHome", "price": 99.99, "company_name": "Google", "description": "A smart home device powered by Google Assistant.", "ratings": 4.3},
+  {"product_name": "GooglePixel", "price": 799.99, "company_name": "Google", "description": "The latest smartphone from Google, featuring an advanced camera and AI capabilities.", "ratings": 4.7},
+  {"product_name": "GoogleNest", "price": 229.99, "company_name": "Google", "description": "A smart thermostat to help you save energy and stay comfortable.", "ratings": 4.4},
+
+  {"product_name": "FacebookPortal", "price": 129.99, "company_name": "Facebook", "description": "A video calling device that connects you with friends and family.", "ratings": 4.1},
+  {"product_name": "OculusQuest", "price": 399.99, "company_name": "Facebook", "description": "A standalone virtual reality headset for immersive gaming experiences.", "ratings": 4.6},
+  {"product_name": "Workplace", "price": 12.99, "company_name": "Facebook", "description": "A collaboration tool designed to connect your workplace and boost productivity.", "ratings": 4.3},
+  
+  {"product_name": "TweetSphere", "price": 35.99, "company_name": "Twitter", "description": "A comprehensive analytics tool for Twitter trends and statistics.", "ratings": 4.0},
+  {"product_name": "TwitterBoost", "price": 49.99, "company_name": "Twitter", "description": "Boost your Twitter engagement with advanced AI tools.", "ratings": 4.5},
+  {"product_name": "TwitterInsights", "price": 29.99, "company_name": "Twitter", "description": "Gain deep insights into your Twitter followers and their behavior.", "ratings": 4.2},
+  {"product_name": "TweetScheduler", "price": 19.99, "company_name": "Twitter", "description": "Schedule your tweets to maximize engagement.", "ratings": 3.8},
+  {"product_name": "TwitterAds", "price": 99.99, "company_name": "Twitter", "description": "Create and manage your Twitter advertising campaigns.", "ratings": 4.1},
+
+  {"product_name": "GoogleHome", "price": 99.99, "company_name": "Google", "description": "A smart home device powered by Google Assistant.", "ratings": 4.3},
+  {"product_name": "GooglePixel", "price": 799.99, "company_name": "Google", "description": "The latest smartphone from Google, featuring an advanced camera and AI capabilities.", "ratings": 4.7},
+  {"product_name": "GoogleNest", "price": 229.99, "company_name": "Google", "description": "A smart thermostat to help you save energy and stay comfortable.", "ratings": 4.4},
+  {"product_name": "GoogleDrive", "price": 9.99, "company_name": "Google", "description": "Cloud storage solution to keep your files secure and accessible.", "ratings": 4.5},
+  {"product_name": "GoogleFit", "price": 29.99, "company_name": "Google", "description": "A fitness tracking app to help you stay healthy and active.", "ratings": 4.2},
+
+  {"product_name": "FacebookPortal", "price": 129.99, "company_name": "Facebook", "description": "A video calling device that connects you with friends and family.", "ratings": 4.1},
+  {"product_name": "OculusQuest", "price": 399.99, "company_name": "Facebook", "description": "A standalone virtual reality headset for immersive gaming experiences.", "ratings": 4.6},
+  {"product_name": "Workplace", "price": 12.99, "company_name": "Facebook", "description": "A collaboration tool designed to connect your workplace and boost productivity.", "ratings": 4.3},
+  {"product_name": "FacebookAds", "price": 199.99, "company_name": "Facebook", "description": "Advertise your business on Facebook to reach a broader audience.", "ratings": 4.0},
+  {"product_name": "InstagramShop", "price": 49.99, "company_name": "Facebook", "description": "Sell your products directly on Instagram with this easy-to-use shop feature.", "ratings": 4.4}
+
+]

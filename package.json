@@ -1,0 +1,26 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "",
+  "main": " server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Czareke/Store-API.git"
+  },
+  "author": "Kevin Oganyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Czareke/Store-API/issues"
+  },
+  "homepage": "https://github.com/Czareke/Store-API#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0",
+    "morgan": "^1.10.0"
+  }
+}
